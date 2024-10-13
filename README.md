@@ -42,16 +42,20 @@ Plotly.
 
 ## PACKAGES NEED TO IMPORT FOR THIS PROJECT
 
-    import streamlit as st
-    from streamlit_option_menu import option_menu
-    import mysql.connector
-    from sqlalchemy import create_engine
-    import pandas as pd
-    import requests
-    import json
-    import plotly.express as px
-    import matplotlib.pyplot as plt
-    import seaborn as sns
+import streamlit as st
+from streamlit_option_menu import option_menu
+import mysql.connector
+from sqlalchemy import create_engine
+import pandas as pd
+import requests
+import json
+import plotly.express as px
+import matplotlib.pyplot as plt
+import seaborn as sns
+import plotly.graph_objects as go
+import streamlit as st
+from bokeh.plotting import figure
+import numpy as n
     import plotly.graph_objects as go
 
   ## GITHUB CLONING FROM GITHUB AND STORE IN PC
